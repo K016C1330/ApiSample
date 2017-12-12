@@ -5,7 +5,7 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 
-namespace ApiSample.Controllers
+namespace ApiSample.Controllers.Apis
 {
     [Authorize]
     public class ValuesController : ApiController
